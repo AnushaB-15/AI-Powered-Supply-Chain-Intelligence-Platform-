@@ -54,9 +54,9 @@ CSV-based bulk updates
 
 Includes:
 
-Schema validation
-AI field mapping
-Conflict detection
-Dry-run simulation
-Rollback support
-Automatic CSV synchronization
+- Schema validation
+- AI field mapping
+- Conflict detection
+- Dry-run simulation
+- Rollback support
+- Automatic CSV synchronization
